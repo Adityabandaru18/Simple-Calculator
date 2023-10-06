@@ -1,10 +1,2 @@
-# MyFirst
-First Git Repository
-<br>
-Aim - To learn Something
-<br>
-Author - Aditya Bandaru
-<br>
-Hahahaha
-<br>
-Changed Hurrayy
+# Calculator
+I've created a simple calculator using HTML, CSS and basic javascript
